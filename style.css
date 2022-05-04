@@ -1,0 +1,8 @@
+.border {
+    border-right: 1px solid #000;
+  }
+.container-fluid {
+  margin: 0 auto;
+  min-height: 100vh;
+  display: flex;
+}
